@@ -1,0 +1,21 @@
+.wrapper {
+  margin: 0 auto;
+  padding-top: 50px;
+  text-align: center;
+  position: relative;
+}
+.title {
+  margin-bottom: 30px;
+}
+.add {
+  background-color: #3f51b5;
+  color: white;
+  position: absolute;
+  left: 500px;
+}
+.add:hover {
+  background-color: #b3e5fc;
+}
+.add:focus {
+  background-color: #b3e5fc;
+}
